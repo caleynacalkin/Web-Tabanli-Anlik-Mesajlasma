@@ -1,0 +1,29 @@
+C:\Users\user\source\repos\WindowsFormsApp21\Msg\Msg\bin\Debug\Msg.exe.config
+C:\Users\user\source\repos\WindowsFormsApp21\Msg\Msg\bin\Debug\Msg.exe
+C:\Users\user\source\repos\WindowsFormsApp21\Msg\Msg\bin\Debug\Msg.pdb
+C:\Users\user\source\repos\WindowsFormsApp21\Msg\Msg\obj\Debug\Msg.csprojAssemblyReference.cache
+C:\Users\user\source\repos\WindowsFormsApp21\Msg\Msg\obj\Debug\Msg.frmMessenger.resources
+C:\Users\user\source\repos\WindowsFormsApp21\Msg\Msg\obj\Debug\Msg.frmkayit.resources
+C:\Users\user\source\repos\WindowsFormsApp21\Msg\Msg\obj\Debug\Msg.Properties.Resources.resources
+C:\Users\user\source\repos\WindowsFormsApp21\Msg\Msg\obj\Debug\Msg.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WindowsFormsApp21\Msg\Msg\obj\Debug\Msg.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WindowsFormsApp21\Msg\Msg\obj\Debug\Msg.exe
+C:\Users\user\source\repos\WindowsFormsApp21\Msg\Msg\obj\Debug\Msg.pdb
+C:\Users\user\source\repos\WindowsFormsApp21\Msg\Msg\obj\Debug\Msg.frmHakkinda.resources
+C:\Users\user\source\repos\WindowsFormsApp21\Msg\Msg\obj\Debug\Msg.FrmChat.resources
+C:\Users\user\source\repos\WindowsFormsApp21\Msg\Msg\obj\Debug\Msg.frmKullaniciEkleDuzenle.resources
+C:\Users\Ebru\Desktop\OKUL\Düzce Üniversitesi ( BM )\3.Yarıyıl\Bilgisayar Mühendisliği Proje Tasarımı\Msg\Msg\Msg\bin\Debug\Msg.exe.config
+C:\Users\Ebru\Desktop\OKUL\Düzce Üniversitesi ( BM )\3.Yarıyıl\Bilgisayar Mühendisliği Proje Tasarımı\Msg\Msg\Msg\obj\Debug\Msg.exe
+C:\Users\Ebru\Desktop\OKUL\Düzce Üniversitesi ( BM )\3.Yarıyıl\Bilgisayar Mühendisliği Proje Tasarımı\Msg\Msg\Msg\obj\Debug\Msg.pdb
+C:\Users\Ebru\Desktop\OKUL\Düzce Üniversitesi ( BM )\3.Yarıyıl\Bilgisayar Mühendisliği Proje Tasarımı\Msg\Msg\Msg\bin\Debug\Msg.exe
+C:\Users\Ebru\Desktop\OKUL\Düzce Üniversitesi ( BM )\3.Yarıyıl\Bilgisayar Mühendisliği Proje Tasarımı\Msg\Msg\Msg\bin\Debug\Msg.pdb
+C:\Users\Ebru\Desktop\OKUL\Düzce Üniversitesi ( BM )\3.Yarıyıl\Bilgisayar Mühendisliği Proje Tasarımı\Msg\Msg\Msg\obj\Debug\Msg.frmMessenger.resources
+C:\Users\Ebru\Desktop\OKUL\Düzce Üniversitesi ( BM )\3.Yarıyıl\Bilgisayar Mühendisliği Proje Tasarımı\Msg\Msg\Msg\obj\Debug\Msg.frmkayit.resources
+C:\Users\Ebru\Desktop\OKUL\Düzce Üniversitesi ( BM )\3.Yarıyıl\Bilgisayar Mühendisliği Proje Tasarımı\Msg\Msg\Msg\obj\Debug\Msg.FrmChat.resources
+C:\Users\Ebru\Desktop\OKUL\Düzce Üniversitesi ( BM )\3.Yarıyıl\Bilgisayar Mühendisliği Proje Tasarımı\Msg\Msg\Msg\obj\Debug\Msg.frmHakkinda.resources
+C:\Users\Ebru\Desktop\OKUL\Düzce Üniversitesi ( BM )\3.Yarıyıl\Bilgisayar Mühendisliği Proje Tasarımı\Msg\Msg\Msg\obj\Debug\Msg.frmKullaniciEkleDuzenle.resources
+C:\Users\Ebru\Desktop\OKUL\Düzce Üniversitesi ( BM )\3.Yarıyıl\Bilgisayar Mühendisliği Proje Tasarımı\Msg\Msg\Msg\obj\Debug\Msg.Properties.Resources.resources
+C:\Users\Ebru\Desktop\OKUL\Düzce Üniversitesi ( BM )\3.Yarıyıl\Bilgisayar Mühendisliği Proje Tasarımı\Msg\Msg\Msg\obj\Debug\Msg.csproj.GenerateResource.Cache
+C:\Users\Ebru\Desktop\OKUL\Düzce Üniversitesi ( BM )\3.Yarıyıl\Bilgisayar Mühendisliği Proje Tasarımı\Msg\Msg\Msg\obj\Debug\Msg.frmİletisim.resources
+C:\Users\Ebru\Desktop\OKUL\Düzce Üniversitesi ( BM )\3.Yarıyıl\Bilgisayar Mühendisliği Proje Tasarımı\Msg\Msg\Msg\obj\Debug\Msg.csprojResolveAssemblyReference.cache
+C:\Users\Ebru\Desktop\OKUL\Düzce Üniversitesi ( BM )\3.Yarıyıl\Bilgisayar Mühendisliği Proje Tasarımı\Msg\Msg\Msg\obj\Debug\Msg.frmHesapBilgilerim.resources

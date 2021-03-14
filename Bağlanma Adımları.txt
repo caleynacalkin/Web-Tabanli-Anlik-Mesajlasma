@@ -1,0 +1,23 @@
+
+1) Projeyi aç Visual Studio arayüzünde bulunan üst sekmelerden Build sekmesinden Rebuild Solution tıkla. 
+
+2) Arayüzü aşağıya indir onunla işin kalmadı. Projenin bulunduğu dosya konumuna gel 
+   bin → Debug → ProjeAdı.exe (bu işlem projemizi acar calıstırır.)
+   iki tane sayfa acıyoruz karşılıklı denemek için.
+
+3) Kullanıcı girişinizi yapın.
+
+4) Diğer actığın sayfadan başka kullanıcı ile giriş yap.
+
+5) Rehberinizden seçip chat sayfasını açtığınız kişiyle konuşabilmek için 
+     açtığınız karşı tarafında aynı şekilde sizinle sayfa açmış olması gerek yani birbirinizin rehberinde olmalısınız.
+
+6) IP adresinizi yazmanıza gerek yok kendisi txt ye getiriyor.
+
+7) Port numarası yazarken kendi portunuzu ve karşı tarafın portunu yazın. Kendinize=80 Karşı=81
+
+8) Aynı şekilde karşı tarafta sizin yazdığınız port numarasını tam tersi yazacak. Kendisi=81 Karşı=80 yazabilirsiniz.
+
+9) Bağlantı kur dediğinizde Erişime izin ver çıkabilir ev seçeneğini seçip tamam.
+
+10) Bağlantı kurulmus olacak mesajları karşılıklı yazabilirsiniz.
